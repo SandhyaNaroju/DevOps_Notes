@@ -1,1 +1,65 @@
-DevOps Notes
+DevOps Engineer / Consultant / Developer / Build / Release Engineer
+SDLC Method / Water fall Method = Requirement , Design , Implement, Test , Deploy, Maintainance
+Analyze, Plan, Design, Build, Test, Deploy
+AGILE Methodology
+Waterfall Vs AGILE
+Dev Team Vs Ops Team
+What is DevOps = Infinite way of Development , Deliverable pieces.
+
+Skills of DevOps Engineer
+
+Tools = Version Control = GIT
+Continuous Integration = Jenkins
+Virtualization = DOCKER / Kubernetes
+Configuaration Manage = Puppet / ANSIBLE
+Monotoring = NAGIOS
+
+Network Skills = General Networking Skills
+
+Other Skills = People Skills, Process Skills, Cloud Awareness , Cosutomer Skills
+
+DevOps LIFE Cycle:- 
+
+Plan = JIRA , Trello , Tricentis
+CODE = Eclipse , GIT
+Build = Jenkins, Maven, Gradle, ANT
+Testing = JMeter , JUnit, SE
+Release = Travis CI, Git Lab, Bamboo
+Deploy = AWS, ANSIBLE, CHEF
+Operate = Same above 3
+Monitor = NAGIOS, SENSU , SPLUNK
+
+DevOps Stages:- 
+
+Version COntrol -> Continuous Testing-> Conti Deployment-> Conti Monitoring-> 
+Containarazation / Virtualization -> Config Manament.
+
+DevOps Deliveries Pipeline:- Jenkins
+
+Version Control - GIT
+Build - MAVEN
+Unit Test - JUnit
+Deploy - QA - DOCKER , ANSIBLE
+Auto Test - System , Selenium
+Deploy to Production - Production - DOCKER
+Measure+ Validate - Grafana , Prometh
+
+Jenkins :- GIT , MAVEN , JUnit, DOCKER, Selenium
+
+DevOps -> Tools -> Pipeline -> VCS GIT
+
+DevOps Engineer Realworld:-
+
+Manage Delivery Pipeline
+CI / CD
+Training
+Automation-Reports,Glue Scripts
+Provision Config Servers- Linux Servers
+Monitoring of the Applications - Jenkins & Kubernetes Servers
+
+DevOps Engineer Not Responsible For :- 
+Write App Code
+Test Code
+Build System
+
+
