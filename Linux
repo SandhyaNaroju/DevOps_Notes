@@ -1,1 +1,46 @@
-Linux 
+Linux Fundamentals
+
+Linux Features:-
+Reliable, Huge Base, Support, Monitory cost, open source, licencing freedom, customized, enhancement, secure
+
+Wr linux is used?
+Servers, Embedded Systems, Super Computers, Android, Gaming & Visual effect server, NASA
+
+DLL = Dynamic Link Library
+
+RPM = Redhat Package Management
+
+Architecture of linux:-
+
+Applications, Shell, Kernal, H/W
+
+4 types of shells = BASH, C Shell , Korn Shell, Tsch Shell
+
+BASH is the default Shell
+
+Ctrl + L = Clear Desktop
+
+Ubuntu - Most Popular Linux Distro
+
+Secure & Stable
+
+File, Run Level , Pipe
+
+File collection of records and Run level sysmbolic link and pipe it is similar to socket but 
+user can not work with it directly processes character h/w communications.
+
+SUDO = To change 1 server to another
+
+shutdown - h now = power off
+
+shutdown - r now = reboot
+
+ls-l = list
+
+ls-l | grep
+
+Shell scripting = Automation
+
+Sudo-i - root of execution
+
+Vi Script.sh - create text and add the ext of the shell
