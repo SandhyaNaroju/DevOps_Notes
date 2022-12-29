@@ -44,3 +44,154 @@ Shell scripting = Automation
 Sudo-i - root of execution
 
 vi Script.sh - create text and add the ext of the shell
+
+Command Line Interface
+
+Command Execution
+
+cd = change directory
+
+ls - list of directories
+
+ls/opt
+
+ls/usr
+
+ls-a
+ls-r
+ls-f
+ls-l
+
+\ls = colour coding
+ll - long losting
+
+mv = move
+cp = cut & paste
+rm = remove the file
+
+rm *.txt = remove all the the files
+
+rm diru = rm -r dir4
+
+cp , rm , mv
+Interactive modes
+
+sudo su = super users
+
+cat = dangerous command doesn't work in interactive mode
+
+cat > file1.txt
+
+ctrl d = change directory
+
+cat file1.txt -n = shown in numbers format
+
+cat >file1.txt
+umesh
+ramesh
+ganesg
+ctrl d enter
+to change directory
+
+cat file1.txt - n
+1.umesh
+2.ramesh
+3.ganesh
+
+cat >file2.txt
+ganesh
+ramesh
+umesh
+
+cat file1.txt -n
+1.ganesh
+2.ramesh
+3.umesh
+
+ctrl d
+
+cat file1.txt file2.txt >file3.txt
+umesh
+ramesh
+ganesh
+ganesh
+ramesh
+umesh
+
+ctrl d
+
+cat file3.txt -n
+1.umesh
+2.ramesh
+3.ganesh
+4.ganesh
+5.ramesh
+6.umesh
+
+touch = zero byte files - multiple files we can create 
+
+ls-ltrh
+
+touch = back ups preforms
+play imp roles
+
+xfsdump/xfsrestore = latest back file checking
+
+file creation method
+cat
+touch = zero byte files (back up)
+vi/vim = imp editors text & graphical editors = vishual interface
+
+gedit
+nedit
+pico
+nano
+joe
+
+tail auth.log
+
+head auth.log = 1st 10 times
+
+tail -n20 auth log = log 20 times
+
+less auth.log = pagewise = up down scroll
+
+more auth.log = only scroll down
+
+wc auth.log = word count
+
+wc-l auth.log = lines
+
+wc-w auth.log = words
+
+wc-c auth.log = charater
+
+df = disk free
+
+-ht = type of file system
+
+-h = file system
+
+du -shcups = all directories
+
+command mode = insert mode = execution mode
+
+shift : wq = write & quit
+
+Shift : q = quit from editor
+
+Shift :n next = 
+
+Shift: set nu = line number
+
+grep = general regular expression pattern
+
+grep -i umesh/etc/passwd
+
+insensitive mode search
+
+alias c = clear history
+
+
+
+
