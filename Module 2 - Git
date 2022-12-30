@@ -55,17 +55,68 @@ Why Git is a clear winner???
 
 Snapshots = git records changes made to a file rather than file itself that means if a file isn't chnaged it isn't stored again.
 
-Fast Operations = Every user has his own copy of the repository data stored locally allowing full functionality even on disconnection.
+Fast Operations = Almost every operation on git is local hence the speed offered by git is lightly fast comapared to other VCS's
 
-Distributed = Check-sum before storing any users that you can't any changes to anything without git recording that change.
+Distributed = Every user has his own copy of the repository data stored locally allowing full functionality even on disconnection.
 
-Branch handing
-Integrity
-Robost
+Branch handling = every collaborators working directly is in itself a branch different branches can be merged with ease.
+
+Integrity = Check-sum before storing any users that you can't any changes to anything without git recording that change.
+
+Robust = Nera every task in git is indorable & it is really hard to close
 
 Git is a Open source
 
-git --vesrion = Git command
+git --vesrion = Git command will get the latest version of git in our system
 2.39.0.windows.2
 
 Umesh DevOps
+
+mkdir - make directory
+
+mkdir 20221230> clone  URL of the git hub repository
+
+clone = downloading files
+
+explorer . 
+open a seperate window
+
+dir /a
+all files will get
+
+20221230> git status
+
+20221230> git add README.md
+git add program.py
+
+git  . = enter -> all add
+2 spaceses
+
+20221230> git log = made changes on repository
+will get 
+
+Commit ID
+Author
+Date & Time
+Commit Message
+
+20221230> git push  = url form  = checking the status of files & list the logs
+
+Cloning - Modification, Deletion, Addition
+Staging Area -> 
+Committing -> 
+Move or Push to central Repository
+
+20221230> git remote -V
+place the where your URL stored
+
+20221230> git Config 
+Global user name or email
+
+
+
+
+
+
+
+
