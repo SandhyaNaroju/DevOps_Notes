@@ -100,7 +100,7 @@ Author
 Date & Time
 Commit Message
 
-20221230> git push  = url form  = checking the status of files & list the logs
+20221230> git push  ( url form of the repository ) checking the status of files & list the logs
 
 Cloning - Modification, Deletion, Addition
 Staging Area -> 
@@ -110,8 +110,7 @@ Move or Push to central Repository
 20221230> git remote -V
 place the where your URL stored
 
-20221230> git Config 
-Global user name or email
+20221230> git Config --Global user name or email
 
 
 
