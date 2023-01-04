@@ -1,0 +1,16 @@
+VCS/Distributed/Central
+clonning to local system--> will give complete repo
+commit is a 2 step process, 1-> add to staging area then use git commit and add to repo, sometimes we can use git commit -a to commit the modified file. you cannot use git -a for any new files.
+git status, git commit, git log (history of changes) , git diff (changes made in work area), git push, git pull
+git reset HEAD filename --> reverting the changes made in last commit.
+git stash --> copying all the changes into working area without commiting --> git stash save "message you can write like mystash"
+git stash list --> to view all the stash created
+git stash -h (lists all the commands related with git stash)
+git stash pop stash@{0} --> brings the stash repo saved with all the changes
+
+
+Branches:
+we can create many branches as required from the main branch.
+each commit is generated with a random commit ID with 40 character string. each commit has its own commit id
+git rebase--> removing a branch A and creates a new branch again with same commits in branch A, the end result will be shifting the commints from branch A to branch B and removing the branch A. branch B is a replicate of branch A.
+git conflicts --> we get conflicts when we have changes before or afte our changes, to make any more changes or push pull, we need to resolve those conflicts
