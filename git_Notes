@@ -12,5 +12,14 @@ git stash pop stash@{0} --> brings the stash repo saved with all the changes
 Branches:
 we can create many branches as required from the main branch.
 each commit is generated with a random commit ID with 40 character string. each commit has its own commit id
+git merge and 
 git rebase--> removing a branch A and creates a new branch again with same commits in branch A, the end result will be shifting the commints from branch A to branch B and removing the branch A. branch B is a replicate of branch A.
 git conflicts --> we get conflicts when we have changes before or afte our changes, to make any more changes or push pull, we need to resolve those conflicts
+cherry pick--> 
+git reset--> reset works only for eork area, no commits or branch involved, we can reset our staging or work area
+git revert -> over write a problamatic commit with a previous one like 
+soft and hard reset (hard reset->revomes or cleans the work area)
+fork--> copying
+git fetch--> complete information of remote repository (fetch will only downloads the updates to your local repository)
+git restore -->
+git squash --> this makes multiple commits to a single commit. 
