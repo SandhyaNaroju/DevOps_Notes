@@ -1,0 +1,20 @@
+build tools--> maven, gradle, ant for java
+make c or c++ make for c language
+any code written in any languages (c, c++, java , low level or high level languages) first needs to be compiled. 
+we cannot execute the code directly, we complue the code to generate binary code which is machine readable code.
+compiler requires other dependencies as well as per language
+                                            MAVEN
+maven is a tool that is used to complie, validate codes and analyse the test cases in the code.
+manage the building , reporting and documentation from source control management (SCM)
+Maven projects are configures through Project Object Model (POM)
+pom.xml file contains documentation for all of the objects properties, methods and events.
+heart of maven project->pom.xml file
+      MAVEN IS CAPABLE OF"
+      information of project is centralized through maven
+      our software project is modeled by it
+      build process is managed
+      data about the software project is gathered and then build itself
+      documenting the software and our project
+      deployable artifacts can be generated from source code
+      your source code is complied, packed test and distributed
+      reports is created, website is generate for the project
